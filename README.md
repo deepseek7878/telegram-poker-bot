@@ -1,6 +1,6 @@
 # Texas-Hold-em-on-Telegram
 TG上的德州，龙武德州源码，可以在Tg上玩的德州，网页德州扑克，H5德州扑克，在TG或line上可以时时开注，押注的德州游戏，成熟的运营模式，你有玩家就可以自己搞平台；结合区块链发牌，公平公正的；
-全套源码，负责部署；TG：@fox_lovemyself
+全套源码，负责部署，联系TG：@fox_lovemyself
 
 <img width="1204" height="753" alt="规则" src="https://github.com/user-attachments/assets/8c24aa81-01ce-416f-82f9-03f6e03f7a2d" />
 
