@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/deepseek7878/telegram-poker-bot?style=for-the-badge)](https://github.com/deepseek7878/telegram-poker-bot/issues)
 [![GitHub license](https://img.shields.io/github/license/deepseek7878/telegram-poker-bot?style=for-the-badge)](https://github.com/deepseek7878/telegram-poker-bot/blob/main/LICENSE)
 
-**Texas Hold'em poker bot for Telegram / Telegram德州扑克机器人 / Telegram德州撲克機械人/TG上的德州，龙武德州源码，可以在Tg上玩的德州，网页德州扑克，H5德州扑克  
+**Texas Hold'em poker bot for Telegram / Telegram德州扑克机器人 /tg游戏/德州源码/ Telegram德州撲克機械人/TG上的德州，龙武德州源码，可以在Tg上玩的德州，网页德州扑克，H5德州扑克  
 Play poker in Telegram: Inline mode, groups, private rooms, tournaments, chips / Telegram内玩德州扑克：内联模式、群组、私房、锦标赛、筹码 / Telegram內玩德州撲克：內聯模式、群組、私房、錦標賽、籌碼.
 
 ## 🎮 一键添加Bot / Add Bot Now / 一鍵新增Bot
